@@ -3,7 +3,9 @@
 
 **Tokenizer v3** aims to build a fully automated, plan-based web app service tailored for token creation, liquidity management, and content engagement. The roadmap outlines the phased development process, from user onboarding to automated token management and influencer marketing. The core feature of Tokenizer v3 is the seamless integration of **plans** that provide users with customizable services based on their specific needs. Below is the **complete development roadmap**:
 
-[Frontend](https://github.com/Play2HelpWorld-com/TokenizerV3Frontend) , [Backend](https://github.com/Play2HelpWorld-com/TokenizerV3Backend)
+Repositories:
+[Frontend](https://github.com/Play2HelpWorld-com/TokenizerV3Frontend)
+[Backend](https://github.com/Play2HelpWorld-com/TokenizerV3Backend)
 
 ---
 
